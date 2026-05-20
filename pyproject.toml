@@ -6,7 +6,7 @@ readme = "README.md"
 requires-python = ">=3.11,<3.12"
 dependencies = [
     "caiman[jupyter]",
+    "jupyterlab",
+    "jupyter_bokeh",
+    "pyqtgraph",
 ]
-
-[tool.uv.sources]
-caiman = { git = "https://github.com/flatironinstitute/CaImAn.git" }

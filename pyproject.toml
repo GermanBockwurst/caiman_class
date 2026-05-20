@@ -1,0 +1,12 @@
+[project]
+name = "caiman-course"
+version = "0.1.0"
+description = "Calcium Imaging Coursework Environment"
+readme = "README.md"
+requires-python = ">=3.11,<3.12"
+dependencies = [
+    "caiman[jupyter]",
+]
+
+[tool.uv.sources]
+caiman = { git = "https://github.com/flatironinstitute/CaImAn.git" }

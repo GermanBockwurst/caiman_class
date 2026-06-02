@@ -9,7 +9,6 @@ Welcome to the class! Follow these instructions sequentially to set up your comp
 Before starting, you should install **Miniforge** on your machine. Miniforge is a community-driven installer for the `conda` package manager. 
 
 * If you do not have it, download and run the installer for your operating system from the [Official Miniforge Page](https://conda-forge.org/download/).
-* *Windows users:* During installation, ensure you check the box to add Miniforge to your local environment paths if prompted.
 
 ## 🚀 Step-by-Step Installation
 

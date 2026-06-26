@@ -68,7 +68,7 @@ jupyter notebook
 
 ### Verification Steps inside Jupyter Notebook:
 
-1. When Jupyter Lab opens in your web browser, double-click to open **`demo_pipeline_cnmfE_AS_2026.ipynb`**.
+1. When Jupyter Lab opens in your web browser, double-click to open **`demo_pipeline_cnmfE_SS_2026.ipynb`**.
 2. Run the first cell of the notebook if it works, you are good to go to follow along with the tutorial.
 
 

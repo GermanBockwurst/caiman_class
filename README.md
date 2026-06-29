@@ -21,7 +21,7 @@ Download our repository of CaImAn containing all custom pipeline configurations,
 **NOTE:** prior running the following commands in your miniforge prompt terminal, you might go into the directory where you would like to store the `caiman_class` folder. 
 
 ```powershell
-git clone https://github.com/MacsmM/caiman_class.git
+git clone https://github.com/GermanBockwurst/caiman_class.git
 cd caiman_class
 ```
 
